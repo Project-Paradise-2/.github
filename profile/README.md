@@ -37,7 +37,7 @@ Join our growing community to connect with other players, participate in events,
 
 - 🌐 Website: [www.project-paradise2.de](https://www.project-paradise2.de)  
 - 📢 Discord: [PP2 Discord](https://discord.gg/Kx7hKwgkbE)
-- 🛠 GitHub: [Project Paradise 2 Repositories](https://github.com/Project-Paradise-2)
+- 🛠 GitHub: [Project Paradise 2 Repositories](https://github.com/orgs/Project-Paradise-2/repositories)
 
 ---
 
